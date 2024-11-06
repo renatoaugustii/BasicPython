@@ -6,7 +6,7 @@ Curso Básico de Python
 #### Linux
 
 Criar ambiente virtual
-´´´ python3 -m venv venv ´´´
+```python3 -m venv venv```
 
 Ativar ambiente virtual
-´´´ source venv/bin/activate ´´´
+```source venv/bin/activate ```
